@@ -1,0 +1,10 @@
+# Only docs are kept in the repository; the EXE is attached to GitHub Releases.
+*.exe
+set.ini
+*.vb
+*.resx
+*.vbproj*
+*.sln
+*.suo
+bin/
+obj/

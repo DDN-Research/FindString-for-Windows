@@ -1,5 +1,0 @@
-Hello!
-This program was created by a group of developers D2.electronics, aka DDN Research.
-We are located in Ukraine, developing and manufacturing electronic products.
-We also produce nixie tube and devices based on them.
-https://millclock.com/ 
